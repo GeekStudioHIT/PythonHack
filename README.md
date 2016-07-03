@@ -7,4 +7,4 @@
 	- 表现形式为：写的代码保存为文件，一个 .py 文件就是一个 module。
 - 包（package）
 	- 通俗一点：包是一个包含 `__init__.py` 的目录，一般还会包含其他的 packages / modules。
-- [Python2 新式类和旧式类](http://hackerxu.com/2014/11/26/type_object.html) Python3 只有新式类。
+- [Python2 新式类和旧式类 一](http://hackerxu.com/2014/11/26/type_object.html) Python3 只有新式类。[Python2 新式类和旧式类 二](http://www.pythontab.com/html/2015/pythonjichu_1113/982.html)
