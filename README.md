@@ -11,3 +11,5 @@
 - [Python3 数据类型](http://www.runoob.com/python3/python3-data-type.html)
 - [Python 面向对象](http://www.runoob.com/python/python-object.html)
 - [with as 一](http://www.jb51.net/article/66925.htm)　[with as 二](http://openhome.cc/Gossip/Python/WithAs.html)
+- [OrderedDict](http://blog.csdn.net/liangguohuan/article/details/7088304)
+- [Python JSON](http://python3-cookbook.readthedocs.io/zh_CN/latest/c06/p02_read-write_json_data.html)
