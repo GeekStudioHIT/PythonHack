@@ -10,3 +10,4 @@
 - [Python2 新式类和旧式类 一](http://hackerxu.com/2014/11/26/type_object.html) Python3 只有新式类。[Python2 新式类和旧式类 二](http://www.pythontab.com/html/2015/pythonjichu_1113/982.html)
 - [Python3 数据类型](http://www.runoob.com/python3/python3-data-type.html)
 - [Python 面向对象](http://www.runoob.com/python/python-object.html)
+- [with as 一](http://www.jb51.net/article/66925.htm)　[with as 二](http://openhome.cc/Gossip/Python/WithAs.html)
