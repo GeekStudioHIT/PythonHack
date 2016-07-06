@@ -13,3 +13,4 @@
 - [with as 一](http://www.jb51.net/article/66925.htm)　[with as 二](http://openhome.cc/Gossip/Python/WithAs.html)
 - [OrderedDict](http://blog.csdn.net/liangguohuan/article/details/7088304)
 - [Python JSON](http://python3-cookbook.readthedocs.io/zh_CN/latest/c06/p02_read-write_json_data.html)
+- [assert](http://blog.sina.com.cn/s/blog_76e94d210100vz37.html)
