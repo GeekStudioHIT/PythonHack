@@ -73,4 +73,21 @@ def counter(start_at=0):
  	```
 - [Python yield 使用浅析](http://www.ibm.com/developerworks/cn/opensource/os-cn-python-yield/)
 
+##迭代器
+从根本上说，迭代器就是有一个 next() 方法的对象。
+
+ ``` Python
+>>> a = [1, 2, 3]
+>>> a = iter(a)
+>>> a.__next__()
+1
+>>> a.__next__()
+2
+>>> a.__next__()
+3
+>>> a.__next__()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+StopIteration
+ ```
 
