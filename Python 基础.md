@@ -1,3 +1,7 @@
+# Python 基础
+- 判断变量数据类型
+	- type()
+	
 ##作用域
 - > 声明适用的程序的范围被称为了声明的作用域。在一个过程中，如果名字在过程的声明之内，它的出现即为过程的局部变量；否则的话，出现即为非局部。——《龙书》
 
@@ -90,6 +94,3 @@ Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 StopIteration
  ```
- 
- 
-
