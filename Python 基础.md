@@ -22,6 +22,16 @@
 - range
 	- Python2 返回一个列表，xrange 返回一个迭代器。
 	- Python3 返回一个迭代器，没有 xrange。
+- Python 的设计者故意在Python初始化完成以后删除 sys 模块里面的 setdefaultencoding() 方法，就是为了不让在运行时随意更改 Python 默认编码，以免出现一些未知的问题。
+
+	``` Python
+	try:
+	    reload(sys)
+	    sys.setdefaultencoding('utf-8')
+	except:
+	    pass
+	```
+
 ##作用域
 - > 声明适用的程序的范围被称为了声明的作用域。在一个过程中，如果名字在过程的声明之内，它的出现即为过程的局部变量；否则的话，出现即为非局部。——《龙书》
 
