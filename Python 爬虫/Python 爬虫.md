@@ -1,0 +1,11 @@
+# Python 爬虫
+- [参考一](http://cuiqingcai.com/1052.html)
+- 爬虫，是一种按照一定的规则，自动地抓取万维网信息的程序或者脚本。
+- URI 和 URL
+	- URI（Uniform Resource Identifier）在于 I（Identifier），统一资源标示符。
+	- URL（Uniform / Universal Resource Locator） 在于 L（Locater），统一资源定位符，提供该资源的路径。
+		- 标准格式：协议类型：//服务器地址（必要时加上端口号）/路径/文件名
+	- URL 是 URI 的子集。
+- Python2，imprt urllib；Python3 import urllib.request；
+- 编码，# -*- coding: utf-8 -*-
+- urllib2.request.urlopen(url, data, timeout)，第一个参数 url 即为 URL，第二个参数 data 是要传送的数据，第三个 timeout 是设置超时时间，默认为 socket._GLOBAL_DEFAULT_TIMEOUT。
