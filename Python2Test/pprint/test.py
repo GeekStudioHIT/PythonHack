@@ -7,3 +7,5 @@ import pprint
 
 str = pprint.pformat(sys.path)
 print str
+
+print '\n'.join(['  ' + i for i in pprint.pformat(sys.path).split('\n')])
