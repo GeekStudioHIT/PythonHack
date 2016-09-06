@@ -1,4 +1,6 @@
 # Python 基础
+- [strip](http://www.cnblogs.com/kaituorensheng/archive/2013/05/23/3096028.html)
+- [string 与 list 互换](http://piziyin.blog.51cto.com/2391349/568426)
 - type() 判断变量数据类型。
 - join
 	- 'sep'.join(seq)
